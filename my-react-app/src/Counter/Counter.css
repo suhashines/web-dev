@@ -1,0 +1,16 @@
+.count{
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+.count h1 {
+    font-size: 80px; /* Increase this value to make the text even bigger */
+    font-weight: bold;
+    color: #333; /* Optional - to style the color */
+  }
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between buttons */
+}
